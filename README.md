@@ -1,5 +1,5 @@
 ## Hi there👋
-- 🔭 I’m currently working on [Calcul-condition-de-coupe](https://github.com/TheFrostSeeker/Calcul-condition-de-coupe)
+I'm a passionate junior developer dedicated to building and contributing to exciting projects. I’m currently focused on learning new programming languages and enhancing IT tools to solve real-world problems. I’m thrilled to share my journey, skills, and creations here.
 
 ### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=Plastic&logo=python&logoColor=ffdd54)
