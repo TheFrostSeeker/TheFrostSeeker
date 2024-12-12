@@ -5,8 +5,6 @@ h1 align="center">Hi 👋, I'm Franck S.</h1>
 
 - 🌱 I’m currently learning **HTML, CSS, JS, C, C++, C#, Python**
 
-- 📄 Know about my experiences [I'm just a hobbyist](I'm just a hobbyist)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
