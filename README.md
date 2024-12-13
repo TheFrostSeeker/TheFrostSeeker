@@ -15,4 +15,4 @@ I'm an enthusiastic hobbyist who enjoys building and contributing to interesting
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=Plastic&logo=yaml&logoColor=151515)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=Plastic&logo=jinja&logoColor=black)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefrostseeker&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefrostseeker&layout=compact&theme=dark&cache_seconds=3600)
