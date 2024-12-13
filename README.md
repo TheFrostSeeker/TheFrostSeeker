@@ -1,5 +1,5 @@
 ## Hi there👋
-I'm a passionate junior developer dedicated to building and contributing to exciting projects. I’m currently focused on learning new programming languages and enhancing IT tools to solve real-world problems. I’m thrilled to share my journey, skills, and creations here.
+I'm an enthusiastic hobbyist who enjoys building and contributing to interesting projects. Currently, I'm focused on learning new programming languages and improving IT tools to solve real-world problems. I'm excited to share my journey, skills, and creations here.
 
 ### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=Plastic&logo=python&logoColor=ffdd54)
@@ -15,4 +15,4 @@ I'm a passionate junior developer dedicated to building and contributing to exci
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=Plastic&logo=yaml&logoColor=151515)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=Plastic&logo=jinja&logoColor=black)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefrostseeker&layout=compact&theme=dark)](https://github.com/thefrostseeker/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefrostseeker&layout=compact&theme=dark)
