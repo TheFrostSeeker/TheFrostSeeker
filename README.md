@@ -15,4 +15,4 @@ I'm a passionate junior developer dedicated to building and contributing to exci
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=Plastic&logo=yaml&logoColor=151515)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=Plastic&logo=jinja&logoColor=black)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheFrostSeeker&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefrostseeker&layout=compact&theme=dark)](https://github.com/thefrostseeker/github-readme-stats)
